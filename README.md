@@ -1,4 +1,4 @@
-HELLO , I am Smita Tarai �![image](https://user-images.githubusercontent.com/89694390/136211183-5f1e37ea-d680-4bb5-810a-1ced3a4d27ed.png)
+HELLO , I am Smita Tarai
 
 
 <!--
