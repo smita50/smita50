@@ -5,8 +5,8 @@
 
 
 <br clear="both">
-# 🌐 Socials:
 
+## 🌐 Socials:
 <div align="left">
   <a href="https://facebook.com/smita.tarai.988" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
