@@ -1,12 +1,12 @@
 # 💫 About Me:
-<h1 align="left">Hello <img height="50" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt=""/><a></a>, I'm Smita Tarai, glad to see you here😃</h1>
-<h3 align="let">&nbsp -😁 I aspire to become a full stack web developer.</h3>
+<h2 align="left">Hello <img height="50" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt=""/><a></a>, I'm Smita Tarai, glad to see you here😃</h2>
+<h4 align="let">&nbsp -😁 I aspire to become a full stack web developer.</h4>
 
 
 
 <br clear="both">
 
-## 🌐 Socials:
+# 🌐 Socials:
 <div align="left">
   <a href="https://facebook.com/smita.tarai.988" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
