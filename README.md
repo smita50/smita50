@@ -30,9 +30,9 @@
 <br clear="both">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smita50&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=smita50&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smita50&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smita50&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smita50&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <br clear="both">
@@ -44,5 +44,10 @@
 <p align="left">
 	<img width="70%" src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 </p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=smita50&icon=4&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
