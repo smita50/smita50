@@ -40,4 +40,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### ✍️ Random Meme                                              
+<p align="left">
+	<img width="70%" src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p>
+
 
