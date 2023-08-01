@@ -3,7 +3,6 @@ Hello, glad to see you here😃.I am a IT Undergrad at IIIT BBSR.<br> - 😁 I a
 
 
 ## 🌐 Socials:
-<br clear="both">
 
 <div align="left">
   <a href="https://facebook.com/smita.tarai.988" target="_blank">
